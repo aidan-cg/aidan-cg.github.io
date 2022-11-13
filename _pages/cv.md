@@ -9,16 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+You can find a copy of my resume <a href="username.github.io/files/aidangleich_resume.pdf" target="_blank">here</a> (updated November 2022).
+<!-- Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics and Economics, Haverford College, 2021
+  * *magna cum laude*
+  * High Honors in both majors
+  * Hunter Holland '43 Economics Thesis Prize
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2020: Summer Research Analyst
+  * Federal Reserve Bank of New York
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
@@ -56,4 +59,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+# * C -->
