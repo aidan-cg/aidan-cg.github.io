@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Aidan Gleich"
 title_separator          : "-"
 name                     : &name "Aidan Gleich"
-description              : &description "Senior Research Analyst at Federal Reserve Bank of New York"
+description              : &description "Duke Statistics PhD Student"
 url                      : https://aidan-cg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aidan-cg/aidan-cg.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Aidan Gleich"
   avatar           : "tetons.jpg"
-  bio              : "Sr. Research Analyst at NY Fed, experienced with time series analysis, macroeconometrics, and Bayesian statistics"
-  location         : "NYC"
-  employer         : "Federal Reserve Bank of New York"
+  bio              : "Duke Statistics PhD Student studying Bayesian Stats, stochastic modeling, and machine learning."
+  location         : "Durham, NC"
+  employer         : "Duke University"
   pubmed           : 
   googlescholar    : 
   email            :
