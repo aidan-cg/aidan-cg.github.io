@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Senior Research Analyst at the Federal Reserve Bank of New York working with Dr. Marco Del Negro on the Dynamic Stochastic General Equilibrium (DSGE) team. My work focuses on macroeconometric research, primarily investigating improvements to Bayesian estimation algorithms used to estimate large-scale macroeconomic models. I maintain multiple public repositories for the DSGE team, including [DSGE.jl](https://github.com/FRBNY-DSGE/DSGE.jl), [SMC.jl](https://github.com/FRBNY-DSGE/SMC.jl), and [ModelConstructors.jl](https://github.com/FRBNY-DSGE/ModelConstructors.jl). 
+Hello! I am a second year PhD student at Duke University in the Statistical Science department. My current research interests include stochastic modeling, causal inference, and machine learning. I typically approach problems from a Bayesian perspective and am broadly interested in Bayesian inference techniques such as HMC and SMC. 
 
-Prior to working at the Fed, I recieved my B.S. in Mathematics and Economics from Haverford College. My thesis on Approximate Bayesian Computation was advised by Dr. Lynne Butler and can be found [here](https://github.com/aidan-cg/undergrad-thesis-ABC).
 
-My research interests generally revolve around time series analysis and include Bayesian analysis, forecasting, and machine learning.  
+Previously, I was a Senior Research Analyst at the Federal Reserve Bank of New York working with Dr. Marco Del Negro on the Dynamic Stochastic General Equilibrium (DSGE) team. Their, my work focused on macroeconometric research, primarily investigating improvements to Bayesian estimation algorithms used to estimate large-scale macroeconomic models. I maintained multiple public repositories for the DSGE team, including [DSGE.jl](https://github.com/FRBNY-DSGE/DSGE.jl), [SMC.jl](https://github.com/FRBNY-DSGE/SMC.jl), and [ModelConstructors.jl](https://github.com/FRBNY-DSGE/ModelConstructors.jl). 
+
+Prior to working at the Fed, I recieved my B.S. in Mathematics and Economics from Haverford College. 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
