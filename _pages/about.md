@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 3rd year PhD candidate at Duke University in the Statistical Science department. I work on statistical and machine learning methodology for high-dimensional data, where difficulties arise from complex dependencies between units. Examples include sampling/generative modeling (diffusion models for protein design, image generation) and adaptive experimentation (multi-armed bandits on networks, SUTVA violations). 
+I'm a 3rd year PhD candidate at Duke University in the Statistical Science department. I work on statistical and machine learning methodology for high-dimensional data, where difficulties arise from complex dependency structures. Examples include sampling/generative modeling (diffusion models for protein design, image generation) and adaptive experimentation (multi-armed bandits on networks, SUTVA violations). 
 
 Addressing these problems requires accurate and efficient inference algorithms. Taking a Bayesian approach, my research centers on the design and analysis of advanced sampling algorithms such as sequential Monte Carlo or adaptive MCMC methods. I have significant experience with the implementation of such algorithms through parallelization on high-performance computing clusters. 
 
