@@ -1,8 +1,8 @@
 ---
 title: "Estimating HANK for Central Banks"
 collection: publications
-category: manuscripts
-permalink: /publication/2024-02-17-paper-title-number-4
+category: other
+permalink: 
 excerpt:
 date: 2023-08-01
 venue: 'FRB of New York Staff Report'

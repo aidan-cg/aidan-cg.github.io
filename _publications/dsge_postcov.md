@@ -1,8 +1,8 @@
 ---
 title: "The NY Fed DSGE Model: A Post-Covid Assessment"
 collection: publications
-category: manuscripts
-permalink: /publication/2024-02-17-paper-title-number-4
+category: other
+permalink: 
 excerpt:
 date: 2024-05-01
 venue: 'AEA Papers and Proceedings'
